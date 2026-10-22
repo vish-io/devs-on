@@ -1,0 +1,21 @@
+/* Universal selector: Reset spacing margins for everything */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body element: Styles the entire viewport background and typography */
+body {
+    background-color: #f4f4f9;  /* Light grey background */
+    font-family: Arial, sans-serif;
+    color: #333333;             /* Dark grey text color */
+    padding: 20px;
+}
+
+/* Heading element */
+h1 {
+    color: #2c3e50;
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
